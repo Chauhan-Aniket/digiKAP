@@ -20,6 +20,11 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.main]]
+name = "About"
+pre = "#"
+url = "about"
+weight = 1
+[[menu.main]]
 name = "Contact"
 pre = "#"
 url = "contact"
