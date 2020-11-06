@@ -3,7 +3,7 @@
 /* ========================================================================= */
 
 $(window).on('load', function () {
-	$('.preloader').fadeOut(100);
+	$('.preloader').fadeOut(300);
 });
 
 // Auto close Navbar when click on link
