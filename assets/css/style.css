@@ -229,7 +229,7 @@ a:hover {
 }
 
 .btn-main:hover {
-  background: #2c9091;
+  background: #c7991c;
   color: #fff;
 }
 
@@ -719,8 +719,8 @@ a:hover {
 }
 
 #contact-submit:hover {
-  border-color: #2c9091;
-  background-color: #2c9091;
+  border-color: #c7991c;
+  background-color: #c7991c;
 }
 
 .form-meghna ::placeholder {
