@@ -1,6 +1,7 @@
 ############################# feature ###################################
 feature:
   enable : true
+  title: About Us
   image : images/about/about-business-man.jpg
   image_webp : images/about/about-business-man.webp
   title : We’re A Digital Design Agency.
