@@ -955,6 +955,10 @@ a:hover {
 	transition: all 500ms ease-in-out;
 }
 
+.service-block h3 {
+	transition: all 500ms ease-in-out;
+}
+
 .service-block .service-icon {
 	margin-bottom: 10px;
 	font-size: 50px;
@@ -968,7 +972,6 @@ a:hover {
 
 .service-block:hover h3 {
 	color: #fff;
-	transition: all 500ms ease-in-out;
 }
 
 .service-block:hover .service-icon {
