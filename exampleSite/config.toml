@@ -55,13 +55,13 @@ pre = "#"
 url = "services"
 weight = 2
 [params]
-author = "Themefisher"
-description = "Responsive Multipurpose Parallax Hugo Template"
+author = "digiKAP"
+description = "Digital Agency for Marketing and Web Development"
 google_analytics_id = ""
 logo = "images/logo.png"
 post_share = true
 [params.cookies]
-enable = false
+enable = true
 expire_days = 2
 [params.map]
 enable = false
