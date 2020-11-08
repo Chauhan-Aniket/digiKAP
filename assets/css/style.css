@@ -2320,6 +2320,7 @@ figcaption {
 	background: rgb(71, 71, 71);
 	transition: all 0.75s cubic-bezier(0.19, 1, 0.22, 1);
 	color: #fdfdfd;
+	z-index: 999;
 }
 
 .cookie-box-hide {
