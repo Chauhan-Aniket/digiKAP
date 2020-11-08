@@ -955,6 +955,17 @@ a:hover {
 	transition: all 500ms ease-in-out;
 }
 
+@media (min-width: 992px) {
+	.service-block {
+		height: 440px;
+	}
+}
+@media (min-width: 768px) {
+	.service-block {
+		height: 420px;
+	}
+}
+
 .service-block h3 {
 	transition: all 500ms ease-in-out;
 }
