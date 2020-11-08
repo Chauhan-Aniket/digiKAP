@@ -16,7 +16,7 @@ service:
     # service item loop
     - name : Social Media Marketing
       icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
-      content : Social Media Marketing is the best way to communicate with your target audience. Publishing engaging content is also an important part of social media strategy. All published content and creative should motivate followers to visit your website to learn more about your brand message.
+      content : Social Media Marketing is the best way to communicate with your target audience. Publishing engaging content is also an important part of social media strategy.
       
     # service item loop
     - name : UX/UI Design
