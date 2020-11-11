@@ -91,7 +91,7 @@ jQuery(function ($) {
 			if (target.length) {
 				html_body.animate(
 					{
-						scrollTop: target.offset().top - 50,
+						scrollTop: target.offset().top,
 					},
 					1500,
 					"easeInOutExpo"
