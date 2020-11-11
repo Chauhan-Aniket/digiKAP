@@ -413,8 +413,7 @@ a:hover {
 	z-index: 99;
 }
 
-.navbar-dark .navbar-nav .nav-item:hover > .nav-link,
-.navbar-dark .navbar-nav .active > .nav-link {
+.navbar-dark .navbar-nav .nav-item:hover > .nav-link {
 	color: #ff652f;
 }
 
