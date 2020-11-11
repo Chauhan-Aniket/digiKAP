@@ -153,3 +153,17 @@ jQuery(function ($) {
 		counter();
 	});
 });
+
+	/* ========================================================================= */
+	/*	counter up
+	/* ========================================================================= */
+
+$(".nav-item").click(function (e) {
+	e.preventDefault();
+	$(this).addClass("active");
+	$(this)
+		.siblings()
+		.each(function () {
+			$(this).removeClass("active");
+		});
+});
