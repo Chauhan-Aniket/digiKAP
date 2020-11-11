@@ -4,14 +4,11 @@ about:
   title: About Us
   about_item:
   - icon: ti-ruler-pencil
-    title: We're Creative
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil,
-      libero, perspiciatis eos provident laborum eum dignissimos.
+    title: Great Teamwork
+    content: We consider ourselves as one big team, not just a number of units — so when we join your project, they’ll be on the same page about the upcoming gig from day one.
   - icon: ti-cup
-    title: We're Professional
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil,
-      libero, perspiciatis eos provident laborum eum dignissimos.
+    title: We're Creative
+    content: The term creativity came to include human innovation, especially in art and science and led to the emergence of the creative class.
   - icon: ti-thought
-    title: We're Genius
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil,
-      libero, perspiciatis eos provident laborum eum dignissimos.
+    title: Startup Mentality
+    content: We are thrilled to tackle new technologies and challenging tasks. Sounds absolutely like your project, huh?
