@@ -160,7 +160,7 @@ jQuery(function ($) {
 let menuList = document.querySelector(".navbar-nav");
 
 menuList.addEventListener("click", (e) => {
-	let menuItem = document.querySelector(".nav-item.active");
+	let menuItem = document.querySelector(".active");
 	if (menuItem != null) {
 		menuItem.classList.remove("active");
 	}
