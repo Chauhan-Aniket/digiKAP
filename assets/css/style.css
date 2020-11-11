@@ -559,13 +559,11 @@ a:hover {
 }
 
 .about .block:hover {
-	outline: 2px solid #fff;
+	border-bottom: 2px solid #ff652f;
 }
-
 .about .block:hover .icon-box {
-	/* -webkit-transform: translateY(-10px);
-	transform: translateY(-10px); */
-	color: #fff;
+	-webkit-transform: translateY(10px);
+	transform: translateY(10px);
 }
 
 .about .block .icon-box {
