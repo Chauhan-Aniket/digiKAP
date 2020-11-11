@@ -552,6 +552,12 @@ a:hover {
 	margin-bottom: 20px;
 }
 
+@media (min-width: 992px) {
+	.about .block {
+		height: 462px;
+	}
+}
+
 .about .block:hover {
 	border-bottom: 2px solid #ff652f;
 }
@@ -559,6 +565,8 @@ a:hover {
 .about .block:hover .icon-box {
 	-webkit-transform: translateY(-10px);
 	transform: translateY(-10px);
+	color: #ff652f;
+	border-color: #ff652f;
 }
 
 .about .block .icon-box {
