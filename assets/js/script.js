@@ -153,16 +153,3 @@ jQuery(function ($) {
 		counter();
 	});
 });
-
-/* ========================================================================= */
-/*	navbar navigation
-	/* ========================================================================= */
-let menuList = document.querySelector(".navbar-nav");
-
-menuList.addEventListener("click", (e) => {
-	let menuItem = document.querySelector(".active");
-	if (menuItem != null) {
-		menuItem.classList.remove("active");
-	}
-	e.target.className = "active";
-});
