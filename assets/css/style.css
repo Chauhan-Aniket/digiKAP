@@ -562,8 +562,8 @@ a:hover {
 	border-bottom: 2px solid #ff652f;
 }
 .about .block:hover .icon-box {
-	-webkit-transform: translateY(10px);
-	transform: translateY(10px);
+	-webkit-transform: translateY(-10px);
+	transform: translateY(-10px);
 }
 
 .about .block .icon-box {
