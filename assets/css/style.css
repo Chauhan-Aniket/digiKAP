@@ -565,13 +565,6 @@ a:hover {
 .about .block:hover .icon-box {
 	-webkit-transform: translateY(-10px);
 	transform: translateY(-10px);
-	color: #fff;
-	border-color: #fff;
-}
-
-.about .block:hover .icon-box:after,
-.about .block:hover .icon-box:before {
-	border-color: #fff;
 }
 
 .about .block .icon-box {
