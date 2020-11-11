@@ -4,8 +4,8 @@ banner:
   bg_image_webp : "images/backgrounds/hero.webp"
   bg_image : "images/backgrounds/hero.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "Let us handle your project."
-  content : "We craft premium digital work for web, mobile and experiential with creative agencies and global brands alike – putting passion, pride and plenty of elbow grease into everything we do."
+  title : "Hey, we’re digiKAP"
+  content : "digiKAP craft digital work for web, mobile and many more. We are Freelancing Agency – we make it work for your business goals and target market."
   button:
     enable : true
     label : "Explore Us"
