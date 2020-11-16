@@ -10,7 +10,7 @@ team:
       designation: CEO/Founder
       # content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
       social:
-        - icon: ti-instagram # themify icon pack : https://themify.me/themify-icons
+        - icon: ti-instagram-alt # themify icon pack : https://themify.me/themify-icons
           link: "https://www.instagram.com/_kaileenakum_/"
         # - icon: ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
         #   link: "#"
@@ -23,10 +23,10 @@ team:
     - name: Aniket Chauhan
       image_webp: images/team/team-3.webp
       image: images/team/team-3.jpg
-      designation: Frontend & UI Developer
+      designation: Frontend Developer
       # content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
       social:
-        - icon: ti-instagram # themify icon pack : https://themify.me/themify-icons
+        - icon: ti-instagram-alt # themify icon pack : https://themify.me/themify-icons
           link: "https://www.instagram.com/_anichauhan_/"
         # - icon: ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
         #   link: "#"
@@ -42,7 +42,7 @@ team:
       designation: WordPress Dev & SEO Specialist
       # content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
       social:
-        - icon: ti-instagram # themify icon pack : https://themify.me/themify-icons
+        - icon: ti-instagram-alt # themify icon pack : https://themify.me/themify-icons
           link: "https://www.instagram.com/pinkesh.patel__/"
         # - icon: ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
         #   link: "#"
