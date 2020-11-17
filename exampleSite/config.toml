@@ -30,16 +30,6 @@ pre = "#"
 url = "contact"
 weight = 7
 [[menu.main]]
-name = "Blog"
-pre = "#"
-url = "blog"
-weight = 6
-[[menu.main]]
-name = "Pricing"
-pre = "#"
-url = "pricing"
-weight = 5
-[[menu.main]]
 name = "Team"
 pre = "#"
 url = "team"
