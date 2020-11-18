@@ -4,25 +4,25 @@ feature:
   title: About Us
   image : images/about/about-business-man.jpg
   image_webp : images/about/about-business-man.webp
-  title : We’re A Digital Design Agency.
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
+  title : We are a Creative Digital Agency.
+  content : "We’ve learned that, when product strategy and UX design starts with real people — when it starts with empathy — it ends with customer success."
   feature_item : 
       # feature item loop
-    - title : SEO Optimized
+    - title : Efficient Development
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : We aid you in choosing the most efficient development methodology and build a solution in line with all of the requirements established during the planning phase.
       
       # feature item loop
     - title : Easy Customization
       icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : We improve your product’s quality to exceed the fluctuating needs of end users. We don’t impose any limits on customization and optimization.
 
       # feature item loop
     - title : SEO Optimized
       icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : SEO has evolved into a complex strategy made of many moving parts that must work together as a unified brand experience.
       
       # feature item loop
-    - title : Easy Customization
+    - title : Digital Marketing
       icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : Do you want to scale up your business? Need more leads and more customers? We can help with that.
